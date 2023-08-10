@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*set background color for the page*/
 body {
     background-color: #d9dcd6;
 }
 
+/*header background color/text color and font*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/*displays elements horizontally w/ sibling elements*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -32,6 +35,7 @@ body {
     font-size: 20px;
 }
 
+/*displays elements horizontally w/ sibling elements*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -47,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/*sets dimensions for the main image on the site*/
 .hero {
     height: 800px;
     width: 100%;
@@ -56,22 +61,26 @@ p {
     background-position: center;
 }
 
+/*sets element to align left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*sets element to align right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*creates a responsive box for the articles of the site*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*sets dimensions for each article; sets font, color and background color of article elements*/
 .articles {
     margin-bottom: 20px;
     padding: 50px;
@@ -90,6 +99,7 @@ p {
     font-size: 36px;
 }
 
+/*sets dimensions for benefit elements; sets font, color and background color of benefit elements*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,6 +127,7 @@ p {
     max-width: 150px;
 }
 
+/*sets dimensions for the footer of the site*/
 .footer {
     padding: 30px;
     clear: both;
