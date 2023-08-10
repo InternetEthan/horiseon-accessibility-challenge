@@ -14,7 +14,7 @@ N/A
 
 Navigate the site using the links at the top of the page. Additional information is present in the aside section on the right side of the page.
 
-![webpage screenshot](/Develop/assets/images/screenshot.png)
+![webpage screenshot](/assets/images/screenshot.png)
 
 ## Credits
 
