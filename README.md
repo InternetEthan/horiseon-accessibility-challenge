@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Horiseon Accessibility Challenge
 
 ## Description
 
@@ -13,6 +13,8 @@ N/A
 ## Usage
 
 Navigate the site using the links at the top of the page. Additional information is present in the aside section on the right side of the page.
+
+deployed site link: https://internetethan.github.io/horiseon-accessibility-challenge/
 
 ![webpage screenshot](/assets/images/screenshot.png)
 
